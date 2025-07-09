@@ -1,0 +1,19 @@
+.logo img{
+    width: 200px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+nav ul li{
+    padding: 0 10px;
+}
