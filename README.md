@@ -11,3 +11,4 @@ This repository includes the projects from roadmap.sh
 Project links:
 
 Single Page CV : https://github.com/iammaharaj/Roadmap.sh-projects/blob/main/01-single-page-cv/index.html
+Simple HTML-only website : https://github.com/iammaharaj/Roadmap.sh-projects/tree/main/02-Basic-HTML-Website
