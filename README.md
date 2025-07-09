@@ -1,5 +1,12 @@
 # Roadmap.sh-projects
 This repository includes the projects from roadmap.sh
 
-Project URLs: 
-1. Single page CV: [https://github.com/iammaharaj/Roadmap.sh-projects/blob/main/01-single-page-cv/index.html](https://github.com/iammaharaj/Roadmap.sh-projects/tree/main/01-single-page-cv)
+# Front-end projects from Roadmap.sh
+<ol>
+  <li><a href="https://roadmap.sh/projects/single-page-cv">Single page CV</li>
+</ol>
+
+
+Project links:
+
+Single Page CV : https://github.com/iammaharaj/Roadmap.sh-projects/blob/main/01-single-page-cv/index.html
