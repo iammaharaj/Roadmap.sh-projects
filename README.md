@@ -4,6 +4,7 @@ This repository includes the projects from roadmap.sh
 # Front-end projects from Roadmap.sh
 <ol>
   <li><a href="https://roadmap.sh/projects/single-page-cv">Single page CV</li>
+  <li><a href="https://roadmap.sh/projects/basic-html-website">Simple HTML-only Website</li>
 </ol>
 
 
